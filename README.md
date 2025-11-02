@@ -76,6 +76,9 @@ As a dedicated autodidact, I am building on my strong foundation in C++, Java, a
   <a href="https://codeforces.com/profile/itsmeharshkumarsingh" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-4051B5?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
   </a>
+   <a href="https://atcoder.jp/users/itsmehks" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder">
+  </a>
   <a href="https://www.codechef.com/users/itsmehks" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
@@ -85,11 +88,3 @@ As a dedicated autodidact, I am building on my strong foundation in C++, Java, a
 </p>
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeharshkumarsingh&show_icons=true&theme=radical&rank_icon=percentile" alt="Harsh's GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeharshkumarsingh&layout=compact&theme=radical" alt="Top Languages">
-</p>
