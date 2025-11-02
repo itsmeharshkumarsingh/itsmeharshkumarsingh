@@ -70,16 +70,16 @@ As a dedicated autodidact, I am building on my strong foundation in C++, Java, a
 ### 📫 How to Reach Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/itsmeharshkumarsingh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+  <a href="https://codeforces.com/profile/itsmeharshkumarsingh" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-4051B5?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+  <a href="https://www.codechef.com/users/itsmehks" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:harshkumarsinghofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
@@ -89,7 +89,7 @@ As a dedicated autodidact, I am building on my strong foundation in C++, Java, a
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=percentile" alt="Harsh's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeharshkumarsingh&show_icons=true&theme=radical&rank_icon=percentile" alt="Harsh's GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeharshkumarsingh&layout=compact&theme=radical" alt="Top Languages">
 </p>
