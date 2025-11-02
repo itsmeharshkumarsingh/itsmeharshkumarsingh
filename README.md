@@ -5,7 +5,9 @@ Driven B.Tech Information Technology student at NIT Raipur with a dual passion f
 As a dedicated autodidact, I am building on my strong foundation in C++, Java, and DSA to master end-to-end application development.
 <br>
 
-**I am actively seeking Software Development (SDE) and Full-Stack internship opportunities. Let's connect to discuss technology, innovation, or potential collaborations.**
+Furthermore, I am expanding my skills into modern cloud and DevOps practices, including AWS, containerization with Docker and Kubernetes, and implementing CI/CD pipelines.
+
+With strong skills in team leadership and communication, I am eager to apply my analytical and technical abilities to solve complex problems in the tech industry.
 
 ---
 
