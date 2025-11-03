@@ -16,7 +16,7 @@ With strong skills in team leadership and communication, I am eager to apply my 
 * 🥇 **Winner, CodeRush '25** (Infotsav '25) - *with over 500+ teams.*
 * 🥈 **Runner-Up, Mock Placement '24** - *competing against all engineering branches.*
 * **JEE Mains 2024:** 100 Percentile in Physics (98.82 Overall).
-* **400+** solved questions on various competitive platforms.
+* **500+** solved questions on various competitive platforms.
 * **Codeforces:** Newbie (Max-Rating: 1091)
     * Codeforces Round 1061 Div2 **Global Rank: 4625**
 * **CodeChef:** 1 Star (Max-Rating: 1373)
