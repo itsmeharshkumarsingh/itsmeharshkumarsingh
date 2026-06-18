@@ -2,10 +2,10 @@
 
 Driven B.Tech Information Technology student at NIT Raipur with a dual passion for high-performance problem-solving and full-stack development. I thrive on challenges and have a proven record of academic excellence, securing my place at NITRR by ranking in the top 1.2% of 1.4+ million candidates in the JEE Mains 2024 (100th percentile in Physics, 98.82 overall).
 
-As a dedicated autodidact, I am building on my strong foundation in C++, Java, and DSA to master end-to-end application development.
+As a dedicated autodidact, I am building on a strong foundation in C++, Java, and DSA to engineer end-to-end application development. I actively build robust projects using the MERN stack (MongoDB, Express.js, React, Node.js), focusing strictly on secure, efficient backend architecture and system performance.
 <br>
 
-Furthermore, I am expanding my skills into modern cloud and DevOps practices, including AWS, containerization with Docker and Kubernetes, and implementing CI/CD pipelines.
+Furthermore, I am expanding my skills into modern cloud and DevOps practices, including AWS, containerization with Docker and Kubernetes, and implementing automated CI/CD pipelines via GitHub Actions.
 
 With strong skills in team leadership and communication, I am eager to apply my analytical and technical abilities to solve complex problems in the tech industry.
 
@@ -13,17 +13,12 @@ With strong skills in team leadership and communication, I am eager to apply my 
 
 ### 🏆 Achievements
 
-* 🥇 **Winner, CodeRush '25** (Infotsav '25) - *with over 500+ teams.*
-* 🥈 **Runner-Up, Mock Placement '24** - *competing against all engineering branches.*
-* **JEE Mains 2024:** 100 Percentile in Physics (98.82 Overall).
-* **500+** solved questions on various competitive platforms.
-* **Codeforces:** Newbie (Max-Rating: 1091)
-    * Codeforces Round 1061 Div2 **Global Rank: 4625**
-* **CodeChef:** 1 Star (Max-Rating: 1373)
-    * CodeChef Starters 210 Div4 **Global Rank: 644**
-    * CodeChef Starters 209 Div1 **Global Rank: 942**
-* **Atcoder:** 10 Kyu (Max-Rating: 172)
-    * AtCoder Beginner Contest 424 **Global Rank: 5981**
+* 🥇 **Winner, CodeRush '25** (Infotsav '25, ABV-IIITM Gwalior) - *competing against over 500+ teams.*
+* 🥈 **Runner-Up, Mock Placement '24-'25** - *secured 2nd place competing campus-wide across all branches.*
+* **Codeforces:** Specialist (Max Rating: 1428)
+* **CodeChef:** 3 Star (Max Rating: 1635)
+* **JEE Mains 2024:** 100 Percentile in Physics (98.82%ile Overall).
+* **700+** solved algorithmic problems across various competitive programming platforms.
 
 ---
 
