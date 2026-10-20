@@ -11,6 +11,7 @@ I am aggressively pursuing my SDE preparation and currently seeking Software Dev
 ---
 
 ### 🏆 Core Achievements
+* 🚀 **ThAT Fellow '26** - *Selected among the top 100 globally for the AE Global Summit 2026 in London, collaborating with researchers from Google DeepMind, Microsoft, NVIDIA, and Oxford University.*
 * 🚀 **National Semifinalist, Flipkart GRiD 8.0** - *Selected from 1.65 Lakh+ nationwide registrations.*
 * 🌍 **Global Rank 955, ICPC 2025-26** - *Preliminary Round.*
 * 🥇 **Winner, CodeRush '25** - *National-level CP Contest at ABV-IIITM Gwalior.*
