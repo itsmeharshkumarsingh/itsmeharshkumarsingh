@@ -66,7 +66,7 @@ flowchart LR
 
 ---
 
-## 📌 Pinned Repositories
+## Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/itsmeharshkumarsingh/fintech-polyglot-platform">
@@ -84,7 +84,7 @@ flowchart LR
 
 ---
 
-## 🏆 Honors & Competitive Milestones
+## Honors & Competitive Milestones
 
 - **ThAT Fellow '26 (Top 100 Globally):** Selected by *Thinking About Thinking* for the **AE Global Summit 2026 (London)**, collaborating with researchers from **Google DeepMind, Microsoft, NVIDIA, and Oxford**.
 - **National Semifinalist — Flipkart GRiD 8.0:** Advanced among **1,65,729+ registrations** nationwide in a multi-stage software engineering crucible.
@@ -103,7 +103,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,go,python,java,js,nodejs,express,fastapi,mysql,postgres,docker,git,github,linux,tailwind,html,css,obsidian&perline=10" />
