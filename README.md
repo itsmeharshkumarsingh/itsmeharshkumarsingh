@@ -106,8 +106,7 @@ flowchart LR
 ## Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,go,python,java,js,nodejs,express,fastapi,mysql,postgres,docker,git,github,linux,tailwind,html,css,obsidian&perline=10" />
-</p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,go,python,java,js,nodejs,express,fastapi,mysql,postgres,docker,git,github,linux,tailwind,html,css,obsidian&perline=10" /> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go%20(Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
