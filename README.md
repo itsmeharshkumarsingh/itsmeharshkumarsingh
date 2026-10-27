@@ -69,15 +69,15 @@ flowchart LR
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/itsmeharshkumarsingh/fintech-polyglot-platform">
+  <a href="[https://github.com/itsmeharshkumarsingh/fintech-polyglot-platform](https://github.com/itsmeharshkumarsingh/fintech-polyglot-platform)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=PayPal-Merchant-AI-Gateway&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   </a>
-  <a href="https://github.com/itsmeharshkumarsingh/HKS-Bank-Co">
+  <a href="[https://github.com/itsmeharshkumarsingh/HKS-Bank-Co](https://github.com/itsmeharshkumarsingh/HKS-Bank-Co)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=HKS-Bank-And-Co&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/itsmeharshkumarsingh/Flat-Subsequence-Segment-Tree-DPVisualizer">
+  <a href="[https://github.com/itsmeharshkumarsingh/Flat-Subsequence-Segment-Tree-DPVisualizer](https://github.com/itsmeharshkumarsingh/Flat-Subsequence-Segment-Tree-DPVisualizer)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=SegDPVisualizer&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   </a>
 </p>
@@ -123,6 +123,5 @@ flowchart LR
 ## 📊 GitHub Telemetry
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsmeharshkumarsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeharshkumarsingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
