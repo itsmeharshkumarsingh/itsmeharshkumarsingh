@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <a href="https://codeforces.com/profile/itsmeharshkumarsingh"><img src="https://img.shields.io/badge/Codeforces-Specialist%20(1436)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/itsmeharshkumarsingh"><img src="https://img.shields.io/badge/Codeforces-Specialist%20(1436)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://leetcode.com/u/itsmeharshkumarsingh/"><img src="https://img.shields.io/badge/LeetCode-Knight%20(2031)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.codechef.com/users/itsmehks"><img src="https://img.shields.io/badge/CodeChef-3%20Star%20(1635)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://atcoder.jp/users/itsmehks"><img src="https://img.shields.io/badge/AtCoder-6%20Kyu%20(800)-222222?style=for-the-badge" /></a>
@@ -39,7 +39,7 @@
 | :--- | :--- |
 | **Target Roles** | **Software Development Engineer (SDE)** · **Backend & Distributed Systems** · **Applied AI Infrastructure** |
 | **Core Architecture** | Sub-millisecond Go (Gin) proxies ($82\mu s$ overhead) · MySQL `START TRANSACTION` & row-level locking · FAISS vector search ($L_2 \le 0.05$) · FastAPI & Docker |
-| **Algorithmic Pedigree** | [**Codeforces Specialist (1436)**](https://codeforces.com/profile/itsmeharshkumarsingh) · [**LeetCode Knight (2031)**](https://leetcode.com/u/itsmeharshkumarsingh/) ·  [**CodeChef 3-Star (1635)**](https://www.codechef.com/users/itsmehks) · **ICPC Prelims Global Rank 955** |
+| **Algorithmic Pedigree** | [**Codeforces Specialist (1436)**](https://codeforces.com/profile/itsmeharshkumarsingh) · [**LeetCode Knight (2031)**](https://leetcode.com/u/itsmeharshkumarsingh/) · [**CodeChef 3-Star (1635)**](https://www.codechef.com/users/itsmehks) · **ICPC Prelims Global Rank 955** |
 | **Global Recognition** | **ThAT Fellow '26 (Top 100 Globally)** — AE Global Summit 2026 (London), collaborating with researchers from Google DeepMind, Microsoft, NVIDIA & Oxford |
 | **Experience** | **Problem Setter Intern @ AskSenior** (Authoring CP problems, test cases & editorials) · [**Technical Creator**](https://www.youtube.com/@itsmeharshkumarsingh) (25+ C++ & OA optimization breakdowns) |
 | **Education** | **B.Tech in Information Technology**, National Institute of Technology (NIT) Raipur (2024–2028 · **CGPA: 8.38/10.0**) |
@@ -47,15 +47,15 @@
 
 ---
 
-## 🏗️ Flagship Systems & Architecture
+## Flagship Systems & Architecture
 
 ```mermaid
 flowchart LR
-    Client([Merchant Traffic]) --> Proxy[Go / Gin Edge Proxy<br/>82µs Routing · HS256 JWT]
+    Client([Merchant Traffic]) --> Proxy[Go / Gin Edge Proxy<br/>82µs Routing<br/>HS256 JWT]
     Proxy --> Engine[FastAPI Core Compute<br/>Async Worker Pool]
     Engine --> FAISS[(FAISS Vector Index<br/>L2 Distance ≤ 0.05)]
     Engine --> Gemini[Gemini 2.5 Flash<br/>Dispute Adjudicator]
-    Engine --> DB[(PostgreSQL / MySQL<br/>ACID · Row-Level Locks)]
+    Engine --> DB[(PostgreSQL / MySQL<br/>ACID Compliant<br/>Row-Level Locks)]
 ```
 
 | System | Architecture & Engineering Constraints | Tech Stack |
@@ -69,16 +69,16 @@ flowchart LR
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="[https://github.com/itsmeharshkumarsingh/fintech-polyglot-platform](https://github.com/itsmeharshkumarsingh/fintech-polyglot-platform)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=PayPal-Merchant-AI-Gateway&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <a href="https://github.com/itsmeharshkumarsingh/fintech-polyglot-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=fintech-polyglot-platform&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   </a>
-  <a href="[https://github.com/itsmeharshkumarsingh/HKS-Bank-Co](https://github.com/itsmeharshkumarsingh/HKS-Bank-Co)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=HKS-Bank-And-Co&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <a href="https://github.com/itsmeharshkumarsingh/HKS-Bank-Co">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=HKS-Bank-Co&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   </a>
 </p>
 <p align="center">
-  <a href="[https://github.com/itsmeharshkumarsingh/Flat-Subsequence-Segment-Tree-DPVisualizer](https://github.com/itsmeharshkumarsingh/Flat-Subsequence-Segment-Tree-DPVisualizer)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=SegDPVisualizer&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <a href="https://github.com/itsmeharshkumarsingh/Flat-Subsequence-Segment-Tree-DPVisualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=Flat-Subsequence-Segment-Tree-DPVisualizer&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   </a>
 </p>
 
