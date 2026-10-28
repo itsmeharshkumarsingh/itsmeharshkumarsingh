@@ -70,15 +70,15 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/itsmeharshkumarsingh/fintech-polyglot-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=fintech-polyglot-platform&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=fintech-polyglot-platform&theme=tokyonight&hide_border=true&border_radius=10&v=2" width="48%" />
   </a>
   <a href="https://github.com/itsmeharshkumarsingh/HKS-Bank-Co">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=HKS-Bank-Co&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=HKS-Bank-Co&theme=tokyonight&hide_border=true&border_radius=10&v=2" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/itsmeharshkumarsingh/Flat-Subsequence-Segment-Tree-DPVisualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=Flat-Subsequence-Segment-Tree-DPVisualizer&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeharshkumarsingh&repo=Flat-Subsequence-Segment-Tree-DPVisualizer&theme=tokyonight&hide_border=true&border_radius=10&v=2" width="48%" />
   </a>
 </p>
 
